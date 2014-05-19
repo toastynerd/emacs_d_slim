@@ -1,3 +1,5 @@
 .cask/
 auto-save-list
 *.dat
+*.eld
+*.cache
